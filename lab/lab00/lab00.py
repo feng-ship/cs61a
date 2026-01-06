@@ -5,5 +5,4 @@ def twenty_twenty_five():
     >>> twenty_twenty_five()
     2025
     """
-    return ______
-
+    return 1024*2-23
